@@ -1,1 +1,1 @@
-# Plugin-for-reCAPTCHA-Contact-Form7
+# Plugin for reCAPTCHA and Contact Form7
