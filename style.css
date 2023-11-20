@@ -1,0 +1,5 @@
+/* リキャプチャを全面に */
+.grecaptcha-badge {
+	/* 前面に出すなら値を大きく */
+	z-index: 10000 !important;
+}
