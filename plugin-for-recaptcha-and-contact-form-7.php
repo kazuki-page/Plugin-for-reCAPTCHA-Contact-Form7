@@ -73,7 +73,7 @@ function load_recaptcha_js() {
      wp_deregister_script( 'google-recaptcha' );
     }
    }
-   add_action( 'wp_enqueue_scripts', 'load_recaptcha_js',100 );
+add_action( 'wp_enqueue_scripts', 'load_recaptcha_js',100 );
    
 // contact form 7 のファイルを必要な場合のみ読み込む
 function wpcf7_file_control()
