@@ -6,6 +6,7 @@ Description: reCAPTCHAとContact Form 7用のプラグイン
 Version: 1.0
 Author: Kazuki Sanada
 Author URI: kazuki.page
+License: GPLv2
 */
 
 if ( ! defined( 'ABSPATH' ) ) exit; /*phpファイルのURLに直接アクセスされても中身を見られないようにする*/
